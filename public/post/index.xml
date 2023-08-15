@@ -196,7 +196,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-749158236&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-329854761&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -206,7 +206,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-749158236&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-329854761&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -543,6 +543,14 @@ Crash --&gt; [*]
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>TestMyWebsite</title>
+      <link>https://zhengyi-liang.github.io/post/testmywebsite/testmywebsite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhengyi-liang.github.io/post/testmywebsite/testmywebsite/</guid>
+      <description></description>
     </item>
     
   </channel>

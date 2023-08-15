@@ -120,5 +120,8 @@
   </url><url>
     <loc>https://zhengyi-liang.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://zhengyi-liang.github.io/post/testmywebsite/testmywebsite/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
