@@ -58,18 +58,6 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/publications/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://zhengyi-liang.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://zhengyi-liang.github.io/publications/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://zhengyi-liang.github.io/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -83,6 +71,15 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://zhengyi-liang.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://zhengyi-liang.github.io/publications/example/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://zhengyi-liang.github.io/tag/deep-learning/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://zhengyi-liang.github.io/publications/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://zhengyi-liang.github.io/post/testmywebsite/testmywebsite/</loc>

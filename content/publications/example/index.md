@@ -1,13 +1,14 @@
 ---
-title: A Place Holder
-summary: a place holder for summary
+#title: "Zhengyi Liang, Jaeho Cho (2023). The Madness of Crowds: Online Editing and Political Bias on Wikipedia."
+summary: "Zhengyi Liang, Jaeho Cho (2023). The Madness of Crowds: Online Editing and Political Bias on Wikipedia."
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+show_date: false
+# date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 # add the link below to your online article from a publisher
-external_link: 
+external_link: "https://twitter.com/LiangZhengyi"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -19,7 +20,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: "https://twitter.com/LiangZhengyi"
 url_slides: ''
 url_video: ''
 

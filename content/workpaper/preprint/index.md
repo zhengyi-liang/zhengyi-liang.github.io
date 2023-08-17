@@ -27,15 +27,18 @@ date: "2023-01-01T00:00:00Z"
 #- Source Themes
 # featured: false
 
-# links:
+links:
+#- name: Online Appendix
+#  url: pdf/supplemental_information.pdf
 
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
+
 
 
 # Featured image
