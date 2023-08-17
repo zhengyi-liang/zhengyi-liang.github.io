@@ -26,9 +26,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+ # - Artificial Intelligence
+ # - Computational Linguistics
+ # - Information Retrieval
 
 # Education to show in About widget
 # education:

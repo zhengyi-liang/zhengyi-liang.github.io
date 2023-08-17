@@ -47,9 +47,9 @@ footer:
   copyright:
     notice: 
     license:
-      enable: true
+      enable: False
       allow_derivatives: false
-      share_alike: true
+      share_alike: True
       allow_commercial: false
 
 # Localization
