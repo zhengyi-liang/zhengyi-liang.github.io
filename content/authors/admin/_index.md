@@ -59,5 +59,7 @@ email: ''
 highlight_name: true
 ---
 
+![state map in red and blue!](/assets/media/map.png)
+
 My research interests include political communication and computational social science. Also, I work with my supervisor, Jaeho Cho. 
 {style="text-align: justify;"}

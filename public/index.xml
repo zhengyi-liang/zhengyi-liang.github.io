@@ -18,22 +18,11 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://zhengyi-liang.github.io/workpaper/preprint/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Zhengyi Liang, Jaeho Cho.&lt;em&gt;&lt;a href=&#34;https://twitter.com/LiangZhengyi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Madness of Crowds: Online Editing and Political Bias on Wikipedia&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Zhengyi Liang, Jaeho Cho.&lt;em&gt;&lt;a href=&#34;https://twitter.com/LiangZhengyi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Madness of Crowds: Online Editing and Political Bias on Wikipedia&lt;/a&gt;&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;
 &lt;details&gt;
   &lt;summary&gt;abstract&lt;/summary&gt;
-    Lorem ipsum _dolor sit amet_, consectetur [adipiscing elit](https://example.org/)
-&lt;/details&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Zhengyi Liang, Jaeho Cho.&lt;em&gt;&lt;a href=&#34;https://twitter.com/LiangZhengyi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Madness of Crowds: Online Editing and Political Bias on Wikipedia&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;details&gt;
-   &lt;summary&gt;abstract&lt;/summary&gt;
-    Lorem ipsum _dolor sit amet_, consectetur [adipiscing elit](https://example.org/)
+    We found that editors adopted liberal news sources overwhemlmingly to portray US politicians on Wikipedia. Furthermore, the political bias is systemic because the liberal bias is more prominent as the number of edits increases. 
 &lt;/details&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -317,7 +306,11 @@ $$&lt;/p&gt;
       <link>https://zhengyi-liang.github.io/publications/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://zhengyi-liang.github.io/publications/example/</guid>
-      <description></description>
+      <description>&lt;p&gt;Zhengyi Liang.&lt;em&gt;&lt;a href=&#34;https://twitter.com/LiangZhengyi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a place holder&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+ &lt;details&gt;
+    &lt;summary&gt;abstract&lt;/summary&gt;
+	  a place holder
+  &lt;/details&gt;</description>
     </item>
     
     <item>

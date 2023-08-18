@@ -67,14 +67,10 @@ links:
 + Zhengyi Liang, Jaeho Cho.*[The Madness of Crowds: Online Editing and Political Bias on Wikipedia](https://twitter.com/LiangZhengyi)*.
 + <details>
     <summary>abstract</summary>
-	  Lorem ipsum _dolor sit amet_, consectetur [adipiscing elit](https://example.org/)
+	  We found that editors adopted liberal news sources overwhemlmingly to portray US politicians on Wikipedia. Furthermore, the political bias is systemic because the liberal bias is more prominent as the number of edits increases. 
   </details>
 
-+ Zhengyi Liang, Jaeho Cho.*[The Madness of Crowds: Online Editing and Political Bias on Wikipedia](https://twitter.com/LiangZhengyi)*.
-+ <details>
-	 <summary>abstract</summary>
-	  Lorem ipsum _dolor sit amet_, consectetur [adipiscing elit](https://example.org/)
-  </details>
+
 <!--more-->  
  <!--- The above line is a summary divider-->
 
