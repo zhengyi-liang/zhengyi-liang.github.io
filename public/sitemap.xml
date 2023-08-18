@@ -58,18 +58,6 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://zhengyi-liang.github.io/workpaper/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://zhengyi-liang.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://zhengyi-liang.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -77,6 +65,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://zhengyi-liang.github.io/tag/deep-learning/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://zhengyi-liang.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://zhengyi-liang.github.io/publications/</loc>

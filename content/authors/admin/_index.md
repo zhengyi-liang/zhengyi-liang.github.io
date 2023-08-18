@@ -59,5 +59,5 @@ email: ''
 highlight_name: true
 ---
 
-I study the intersection of political communication and computational social science.
+My research interests include political communication and computational social science. Also, I work with my supervisor, Jaeho Cho. 
 {style="text-align: justify;"}

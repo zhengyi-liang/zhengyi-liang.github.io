@@ -1,8 +1,12 @@
 ---
-title: "The Madness of Crowds: Online Editing and Political Bias on Wikipedia"
-authors:
-- admin
-- Jaeho Cho
+# title: "The Madness of Crowds: Online Editing and Political Bias on Wikipedia"
+# summary: "Zhengyi Liang, Jaeho Cho. The Madness of Crowds: Online Editing and Political Bias on Wikipedia."
+# external_link: "https://twitter.com/LiangZhengyi"
+show_date: false
+
+#authors:
+#- admin
+#- Jaeho Cho
 date: "2023-01-01T00:00:00Z"
 # doi: "1230.1235"
 
@@ -59,3 +63,19 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
++ Zhengyi Liang, Jaeho Cho.*[The Madness of Crowds: Online Editing and Political Bias on Wikipedia](https://twitter.com/LiangZhengyi)*.
++ <details>
+    <summary>abstract</summary>
+	  Lorem ipsum _dolor sit amet_, consectetur [adipiscing elit](https://example.org/)
+  </details>
+
++ Zhengyi Liang, Jaeho Cho.*[The Madness of Crowds: Online Editing and Political Bias on Wikipedia](https://twitter.com/LiangZhengyi)*.
++ <details>
+	 <summary>abstract</summary>
+	  Lorem ipsum _dolor sit amet_, consectetur [adipiscing elit](https://example.org/)
+  </details>
+<!--more-->  
+ <!--- The above line is a summary divider-->
+
+

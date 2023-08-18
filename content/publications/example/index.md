@@ -1,6 +1,8 @@
 ---
 #title: "Zhengyi Liang, Jaeho Cho (2023). The Madness of Crowds: Online Editing and Political Bias on Wikipedia."
-summary: "Zhengyi Liang, Jaeho Cho (2023). The Madness of Crowds: Online Editing and Political Bias on Wikipedia."
+summary: A place holder
+font-size: 60rem
+
 tags:
   - Deep Learning
 show_date: false
