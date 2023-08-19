@@ -6,9 +6,10 @@ title: Zhengyi Liang
 first_name: Alice
 last_name: Wu
 
-# Status emoji
+# Status ai
 status:
-  icon: ☕️
+  icon: cv
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,6 +48,13 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+
+  - icon: graduation-cap #Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=a644Ok0AAAAJ&hl=en&authuser=1
   
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -59,7 +67,8 @@ email: ''
 highlight_name: true
 ---
 
-![state map in red and blue!](/assets/media/map.png)
+![screen reader text](map.png)
 
 My research interests include political communication and computational social science. Also, I work with my supervisor, Jaeho Cho. 
 {style="text-align: justify;"}
+
