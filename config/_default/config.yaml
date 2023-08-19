@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Zhengyi Liang # Website name
-baseURL: 'https://zhengyi-liang.github.io/' # Website URL
+baseURL: 'http://www.zhengyiliang.com/' # Website URL 'http://www.zhengyiliang.com/'
+# 'https://zhengyi-liang.github.io/'
 
 ############################
 ## LANGUAGE

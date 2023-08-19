@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhengyi-liang.github.io/workpaper/preprint/</loc>
+    <loc>http://www.zhengyiliang.com/workpaper/preprint/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/workpaper/</loc>
+    <loc>http://www.zhengyiliang.com/workpaper/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/</loc>
+    <loc>http://www.zhengyiliang.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/tag/academic/</loc>
+    <loc>http://www.zhengyiliang.com/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/categories/</loc>
+    <loc>http://www.zhengyiliang.com/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/category/demo/</loc>
+    <loc>http://www.zhengyiliang.com/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/post/</loc>
+    <loc>http://www.zhengyiliang.com/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/tags/</loc>
+    <loc>http://www.zhengyiliang.com/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/post/getting-started/</loc>
+    <loc>http://www.zhengyiliang.com/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://www.zhengyiliang.com/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://www.zhengyiliang.com/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/post/jupyter/</loc>
+    <loc>http://www.zhengyiliang.com/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/slides/</loc>
+    <loc>http://www.zhengyiliang.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/slides/example/</loc>
+    <loc>http://www.zhengyiliang.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/admin/</loc>
+    <loc>http://www.zhengyiliang.com/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/publications/example/</loc>
+    <loc>http://www.zhengyiliang.com/publications/example/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/tag/deep-learning/</loc>
+    <loc>http://www.zhengyiliang.com/tag/deep-learning/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/publication_types/</loc>
+    <loc>http://www.zhengyiliang.com/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/publications/</loc>
+    <loc>http://www.zhengyiliang.com/publications/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhengyi-liang.github.io/post/testmywebsite/testmywebsite/</loc>
+    <loc>http://www.zhengyiliang.com/post/testmywebsite/testmywebsite/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

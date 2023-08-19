@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://zhengyi-liang.github.io/sitemap.xml
+Sitemap: http://www.zhengyiliang.com/sitemap.xml
